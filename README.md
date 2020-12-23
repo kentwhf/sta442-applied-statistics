@@ -32,7 +32,7 @@ atmoshperic Carbon Dioxide concentrations from an observatory in Haiwaii, made a
 ### Death
 Daily mortality counts in Quebec is available from [www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html]([www.stat.gouv.qc.ca/statistiques/population-demographie/deces-mortalite/nombre-hebdomadaire-deces_an.html)
 
-An imaginary government official believes that the first wave of the COVID-19 epidemic, in March, April andMay, primarily affected the elderly. The second wave, which began in September, is caused by irresponsibleyoung people, primarily university undergraduates, acting irresponsibly. Evidence of this can be seen in theweekly mortality counts. Deaths amongst the elderly in the spring were well above the historical averages,whereas the under 50’s had deaths in line with previous years. In the most recent death data, there is anincrease in deaths in the under 50’s whereas the over 70’s have no more deaths than would be expectedpre-covid.
+An imaginary government official believes that the first wave of the COVID-19 epidemic, in March, April and May, primarily affected the elderly. The second wave, which began in September, is caused by irresponsibleyoung people, primarily university undergraduates, acting irresponsibly. Evidence of this can be seen in theweekly mortality counts. Deaths amongst the elderly in the spring were well above the historical averages,whereas the under 50’s had deaths in line with previous years. In the most recent death data, there is anincrease in deaths in the under 50’s whereas the over 70’s have no more deaths than would be expectedpre-covid.
 
 ## Two reasonably non-standard problems with Spatial Statistics
 ### Donald
