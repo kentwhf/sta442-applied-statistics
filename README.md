@@ -24,7 +24,7 @@ Cigarette smoking amongst children is known to be more common for males than fem
 
 ##  Smoothing with  additive models
 ### CO2
-atmoshperic Carbon Dioxide concentrations from an observatory in Haiwaii, made availableby the Scripps COεProgram [atscrippsco2.ucsd.edu](http://atscrippsco2.ucsd.edu). I discuss if the CO2 data appears to be impactedby the following events:
+atmoshperic Carbon Dioxide concentrations from an observatory in Haiwaii, made availableby the Scripps COεProgram [scrippsco2.ucsd.edu/](https://scrippsco2.ucsd.edu/). I discuss if the CO2 data appears to be impactedby the following events:
 
 * The fall of the Berlin wall in November 1989 years ago, preceding a dramatic fall in industrial productionin the Soviet Union and Eastern Europe;
 * The global lockdown during the COVID-19 pandemic starting in February 2020, shutting down muchof the global economy.
