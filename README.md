@@ -1,5 +1,5 @@
 # Applied Statistics
-Project work submitted for the course of Applied Statistics
+Project work submitted for the course of Applied Statistics. I deployed semi‑parametric models (GAM), spatial statistics (BYM), and Bayesian inference to investigate the demographical and environmental impact of COVID-19.
 
 ## Generalized linear models
 ### Affairs
